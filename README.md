@@ -1,1 +1,1 @@
-# bamazon
+See screenshots.pdf for details
