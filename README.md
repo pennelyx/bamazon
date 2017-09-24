@@ -1,1 +1,3 @@
-See screenshots.pdf for details
+Bamazon
+
+This is an Amazon-like storefront with MySQL. The app will take in orders from customers and deplete stock from the store's inventory.
